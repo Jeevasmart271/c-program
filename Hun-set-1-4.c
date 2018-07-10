@@ -2,7 +2,7 @@
 #include<conio.h>
 void main()
 {
-int a[10],n,i,j;
+int a[20],n,i,j;
 clrscr();
 scanf("%d",&n);
 for(i=1;i<=n;i++)
