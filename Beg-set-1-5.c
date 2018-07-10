@@ -7,15 +7,15 @@ clrscr();
 scanf("%d\t%d\t%d",&a,&b,&c);
 if(a>b && a>c)
 {
-printf("a is greater");
+printf("%d",a);
 }
 if(b>a && b>c)
 {
-printf("b is greater");
+printf("%d",b);
 }
 if(c>a && c>b)
 {
-printf("c is greater");
+printf("%d",c);
 }
 getch();
 }
