@@ -4,6 +4,7 @@ void main()
 {
 int f=1,a,i;
 clrscr();
+scanf("%d",&a);
 for(i=1;i<=a;i++)
 {
 f=f*i;
